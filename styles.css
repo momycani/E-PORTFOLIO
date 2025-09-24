@@ -418,6 +418,7 @@ footer{
 .footer__logo--image{
     width: 70px;
     height: 70px;
+    filter: invert(1);
 }
 
 .footer__social--link,
